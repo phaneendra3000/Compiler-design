@@ -1,0 +1,63 @@
+Other: #
+Identifier: include
+Relational Operator: <
+Identifier: stdio
+Other: .
+Identifier: h
+Relational Operator: >
+Keyword: int
+Identifier: main
+Other: (
+Other: )
+Other: {
+Keyword: int
+Identifier: a
+Other: ;
+Keyword: int
+Identifier: b
+Other: ;
+Keyword: int
+Identifier: c
+Other: ;
+Keyword: int
+Identifier: sum
+Relational Operator: =
+Identifier: a
+Other: +
+Identifier: b
+Other: +
+Identifier: c
+Other: ;
+Keyword: if
+Other: (
+Identifier: a
+Relational Operator: >
+Identifier: c
+Other: )
+Other: {
+Identifier: printf
+Other: (
+Other: "
+Identifier: a
+Identifier: is
+Identifier: greater
+Other: \
+Identifier: n
+Other: "
+Other: )
+Other: ;
+Other: }
+Keyword: else
+Other: {
+Identifier: printf
+Other: (
+Other: "
+Identifier: b
+Identifier: is
+Identifier: greater
+Other: "
+Other: )
+Other: ;
+Other: }
+Other: }
+End of File
